@@ -14,7 +14,7 @@ video{
   object-fit: contain;
 }
 
-.cta{
+.download{
   color: aquamarine;
   font-size: 16px;
 }
@@ -27,4 +27,9 @@ h2{
 p{
   font-size: 21px;
   color: gray;
+}
+
+#footer{
+  color: gray;
+  text-align: right;
 }
